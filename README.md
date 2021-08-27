@@ -11,3 +11,5 @@ to "run" the demo, do
     sqlite> .read 04-churn-rolling-window.sql
     sqlite> .read 05-create-big-fact.sql
     sqlite> .read 06-slice-churn.sql
+
+Sample data generated at https://www.mockaroo.com/

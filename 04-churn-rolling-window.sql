@@ -24,6 +24,7 @@ with dates as (
     on date(m.active_from) <= date(d.day_date)
     and date(d.day_date) <= date(m.active_to)
 ), joined as (
+    -- full outer join not supported by sqlite
     select date_id, row_id, max(thirty_days_ago_row_id) as thirty_days_ago_row_id, max(current_row_id) as current_row_id
     from (
         select date_id, row_id, row_id as thirty_days_ago_row_id, null as current_row_id
