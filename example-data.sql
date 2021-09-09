@@ -1,0 +1,12 @@
+row_id      account_id                            name        product     country     active_from  active_to
+----------  ------------------------------------  ----------  ----------  ----------  -----------  ----------
+1           6b4bea38-1541-4c68-826e-087f59f1dc64  Aaren       GMC         Iceland     2019-10-08   2021-10-06
+2           9e072045-8149-4b9c-91fd-79b54f228b09  Aaron       Lincoln     Iceland     2017-09-17   2019-05-09
+3           b7732327-8e29-4d37-a25d-8289d5873b1d  Ab          Bentley     Uganda      2020-02-05   2021-02-12
+4           46e76632-35f5-4669-bb33-6f1e6cfbcc07  Abagail     Hyundai     Pakistan    2021-05-20   2023-11-14
+5           b6854e2b-38df-440a-a127-52c3ea7684e9  Abba        Lincoln     Cambodia    2015-02-15   2016-12-16
+6           f2621b91-a1a1-48ec-9885-e9e5708a9e00  Abbe        Subaru      Bahamas     2020-02-16   2022-03-17
+7           00f29853-e76a-4e3d-b39c-746615a62c7b  Abbey       Lincoln     Pakistan    2017-01-31   2017-02-16
+8           41be12cb-662c-4f51-99f1-f0801abebfc1  Abbie       Kia         Cambodia    2021-04-06   2022-07-20
+9           1100c90d-1460-4e35-8862-92ee5f00132d  Abby        Saab        Namibia     2016-08-10   2018-01-06
+10          656960cb-d1fc-48da-875b-c6d13d1c8e8a  Abdul       Rolls-Royc  Vanuatu     2017-03-31   2018-01-18
